@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Basic Text Formatting</title>
+</head>
+<body>
+  <h1>Basic Text Formatting Tags</h1>
+
+  <p><b>This is Bold Text using &lt;b&gt; tag.</b></p>
+  <p><strong>This is Strong Text using &lt;strong&gt; tag.</strong></p>
+  <p><i>This is Italic Text using &lt;i&gt; tag.</i></p>
+  <p><em>This is Emphasized Text using &lt;em&gt; tag.</em></p>
+  <p><u>This is Underlined Text using &lt;u&gt; tag.</u></p>
+  <p><s>This is Strikethrough Text using &lt;s&gt; tag.</s></p>
+
+</body>
+</html>
